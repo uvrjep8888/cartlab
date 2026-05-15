@@ -4,7 +4,7 @@ import { Search } from "lucide-react"
 import Image from "next/image"
 export default function Header(){
     return(
-        <div className = "border border-[#272A31] flex justify-between py-[21px] px-[24px]">
+        <div className = "border border-[#272A31] border-t-0 border-l-0 border-r-0 flex justify-between py-[21px] px-[24px]">
             <p className = "flex-1">
                 <Image
                     className="dark"
