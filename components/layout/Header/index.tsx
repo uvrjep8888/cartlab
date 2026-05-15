@@ -1,5 +1,5 @@
 import { Input } from "@/components/ui/input"
-import { Badge, BadgeCheck } from "@/components/ui/badge"
+import { Badge } from "@/components/ui/badge"
 import { Search } from "lucide-react"
 import Image from "next/image"
 export default function Header(){
